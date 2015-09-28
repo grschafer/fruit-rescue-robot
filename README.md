@@ -44,3 +44,23 @@ in Terminal, and you're good to go! Further Meteor help can be found at http://d
   * /less - compiles to css
   * /coffee - compiles to javascript
   * /docs - Schema and Structure info
+
+## TODO
+
+- Complete registration
+  - Add role to human reg. (e.g. redirect for harvester registration)
+- Allow for tree registration
+  - Property as well, but can be added later.
+- Allow for harvest registration
+  - Calendar of events?
+  
+- Authentication through Google+, Facebook, Twitter (see Meteor packages)
+- Create style sheet for site, and change formatting to fit sheet
+- Create tests
+  - database storing and fetching
+  - Authentication
+  - Button clicks, fields
+- Community Forum? 
+
+
+

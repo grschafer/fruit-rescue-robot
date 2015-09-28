@@ -41,7 +41,7 @@ if Meteor.isClient
         email: email
         password: password
       # ...and then the Human object
-      HumansList.insert
+      Humans.insert
         first_name: firstname
         last_name: lastname
         email: email
